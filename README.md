@@ -103,60 +103,6 @@ Missing value analysis
 
 All queries are included in the project’s SQL file.
 
-📊 Power BI Dashboard
-
-An interactive dashboard was built in Power BI to visualize insights.
-
-Dashboard Highlights
-
-KPI Cards:
-
-Total Customers
-
-Subscribed Customers
-
-Missing Email Percentage
-
-Geographic Analysis:
-
-Customers by Country
-
-Top Cities
-
-Country-wise Map
-
-Subscription Trends:
-
-Yearly Subscription Trend
-
-Monthly Subscription Distribution
-
-Customer Profile Analysis:
-
-Phone Status
-
-Company Status
-
-Subscription Status
-
-Data Quality Insights:
-
-Top Email Domains
-
-Duplicate Records Table
-
-📈 Key Results & Insights
-
-Customer distribution is concentrated in specific countries and cities
-
-A significant portion of customers are not subscribed
-
-Missing email and phone data affects communication quality
-
-Certain months show higher subscription activity
-
-Email domain analysis helps understand customer communication patterns
-
 💡 Business Recommendations
 
 Enforce mandatory email and phone fields during customer onboarding
